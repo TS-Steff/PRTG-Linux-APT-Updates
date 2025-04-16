@@ -3,8 +3,8 @@
 maxWrn=10
 maxErr=20
 
-maxWrnSec=1
-maxErrSec=1
+maxWrnSec=0
+maxErrSec=0
 
 count=0
 
