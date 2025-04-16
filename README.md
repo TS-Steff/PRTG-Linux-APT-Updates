@@ -6,8 +6,9 @@
 ### User rights
 ```
 sudo visudo
-hades ALL=NOPASSWD: /usr/bin/apt-get update
+%username% ALL=NOPASSWD: /usr/bin/apt-get update
 ```
+replace %username% with your username
 
 ### skript
 ```
