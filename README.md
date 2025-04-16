@@ -6,7 +6,7 @@
 ```
 sudo visudo
 hades ALL=NOPASSWD: /usr/bin/apt-get update
-``` `
+```
 
 ### skript
 ```
